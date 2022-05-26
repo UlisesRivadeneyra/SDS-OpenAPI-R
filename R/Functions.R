@@ -10,7 +10,7 @@ get_mortality_state <- function(state){
   url <- paste("https://mortalityopenapi.herokuapp.com/mortality/v.1/mortality-state?state=", state, sep="")
   data <- RJSONIO::fromJSON(content=url)
   data_frame <- rbindlist(data,fill = T)
-  return(data_frame)
+  return(dagetta_frame)
 }
 
 #' get_mortality_state_year

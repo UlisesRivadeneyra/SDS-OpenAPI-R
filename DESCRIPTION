@@ -5,11 +5,11 @@ Authors@R:
     person("Ulises", "Hernandez", , "rdeney97@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This package allow you to interact with open data of mortality and morbidity of the Secretaria de salud Mexicana open data.
-License: use_mit_license()
+License: use_mit_license("UlisesHR & RobertMares")
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 Imports:
-  RJSONIO
+  RJSONIO,
   data.table
   
