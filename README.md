@@ -8,3 +8,4 @@ The data used in the API were provided in : https://datos.gob.mx/busca/dataset?t
 This package allow you to interact with the API to get the information of the functions in DataFrame mode.
 
 # Instructions 
+To install the package simple run the comand ``` devtools::install_github("UlisesRivadeneyra/SDS-OpenAPI-R")``` in yout R.
