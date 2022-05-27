@@ -7,4 +7,4 @@ The data used in the API were provided in : https://datos.gob.mx/busca/dataset?t
 
 This package allow you to interact with the API to get the information of the functions in DataFrame mode.
 
-# Intructions 
+# Instructions 
